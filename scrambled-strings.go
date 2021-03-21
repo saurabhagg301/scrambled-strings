@@ -17,7 +17,7 @@ var (
 		"x": 24, "y": 25, "z": 26}
 	pathToDictFile  = flag.String("dictionary", "dict/dict.txt", "path to dictionary file")
 	pathToInputFile = flag.String("input", "input/input.txt", "path to input file")
-	output             = []result{}
+	output          = []result{}
 )
 
 func init() {
@@ -83,7 +83,7 @@ func main() {
 			}
 		}
 		temp[2] = len(word) - 2 // number of character between starting and ending character
-		temp[3] = sum           // sum of integer equivalent of in between first letter and last letter
+		temp[3] = sum           // sum of integer equivalent of middle letters
 
 		// check if a same signature word already exists in the dict slice
 		var flagSameSignatureWordExists bool
