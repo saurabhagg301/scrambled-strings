@@ -1,8 +1,8 @@
-2021/03/21 16:03:07 scrambled-strings.go:258: INFO: Dictionary Map: 
-2021/03/21 16:03:07 scrambled-strings.go:267: a:[[1 10 3 41 3] [1 4 1 2 1]]
-2021/03/21 16:03:07 scrambled-strings.go:267: d:[[4 20 3 34 1]]
-2021/03/21 16:03:07 scrambled-strings.go:267: p:[[16 14 3 38 1]]
-2021/03/21 16:03:07 scrambled-strings.go:156: INFO: Line# 1, Word matched: aapxj, Counter Value incremented by: 3
-2021/03/21 16:03:07 scrambled-strings.go:156: INFO: Line# 1, Word matched: pxjdn, Counter Value incremented by: 1
-2021/03/21 16:03:07 scrambled-strings.go:156: INFO: Line# 1, Word matched: dnrbt, Counter Value incremented by: 1
-2021/03/21 16:03:07 scrambled-strings.go:166: Case #1: 5
+2021/03/21 16:12:01 scrambled-strings.go:258: INFO: Dictionary Map: 
+2021/03/21 16:12:01 scrambled-strings.go:267: p:[[16 14 3 38 1]]
+2021/03/21 16:12:01 scrambled-strings.go:267: a:[[1 10 3 41 3] [1 4 1 2 1]]
+2021/03/21 16:12:01 scrambled-strings.go:267: d:[[4 20 3 34 1]]
+2021/03/21 16:12:01 scrambled-strings.go:156: INFO: Line# 1, Word matched: aapxj, Counter Value incremented by: 3
+2021/03/21 16:12:01 scrambled-strings.go:156: INFO: Line# 1, Word matched: pxjdn, Counter Value incremented by: 1
+2021/03/21 16:12:01 scrambled-strings.go:156: INFO: Line# 1, Word matched: dnrbt, Counter Value incremented by: 1
+2021/03/21 16:12:01 scrambled-strings.go:166: Case #1: 5
