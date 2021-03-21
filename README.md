@@ -30,9 +30,7 @@ go test --input=input/input_test.txt --dictionary=dict/dict_test.txt --expectedV
 
 
 # Logging
-Check logs in the **logs.txt** file which contains map of dictionary words   
-key = starting character    
-value = array of word's signature   
+Check logs in the **logs.txt** file which contains map of dictionary words with key = starting character and value = array of word's signature   
 and in subsequent lines:   
 Line number, the word being matched from input file and the counter value being incremented for the matched word
 
