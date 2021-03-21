@@ -30,7 +30,7 @@ go test --input=input/input_test.txt --dictionary=dict/dict_test.txt --expectedV
 
 
 # Logging
-Check logs in the **logs.txt** file which has contains map of dictionary words   
+Check logs in the **logs.txt** file which contains map of dictionary words   
 key = starting character    
 value = array of word's signature   
 and in subsequent lines:   
